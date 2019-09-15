@@ -1,5 +1,3 @@
 # hello-world
-Tutorial repository
-This is a read me file I created in order to complete the git tutorial
-Like the readme files
-Keep the code organized
+This is my readme file.Here you can find the descritpion of the project.
+Thanks for reading...hope you find it helpful!!
